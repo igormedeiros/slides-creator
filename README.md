@@ -1,13 +1,12 @@
 # Online Course Slides Generator
-
 This project transforms an input text file into PowerPoint and PDF files following a specified template.
 
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone <REPOSITORY_URL>
-    cd <REPOSITORY_NAME>
+    git clone https://github.com/igormedeiros/slides-creator.git
+    cd slides-creator
     ```
 
 2. Create a virtual environment and install dependencies:
